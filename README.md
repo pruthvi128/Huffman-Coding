@@ -17,14 +17,6 @@ Text file is passed to compress function, frequency dictionary is created, text 
 Compressed file ".bin" is then used and passed to decompress function, padding between text is removed from encoded text and text is decoded,to decompress the file and get original file.
 
 Uploaded sample text file "sample.txt", which I have used and uploaded results of compression and of decompression
-
-
-
-
-
-
-
-
-
+or any txt file can be used.
 
 
