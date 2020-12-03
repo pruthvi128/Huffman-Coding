@@ -9,7 +9,6 @@ Python
 Project working:
 Download both file encode_decode.py and main.py and make sure both are in same directory
 Open main.py and specify text file path in 'file_path' variable
-![plot](C:/Users/Pruthvi Gabani/Documents/Capture.png)
 
 
 
