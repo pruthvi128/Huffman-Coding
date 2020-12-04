@@ -1,22 +1,17 @@
 # Huffman-Coding
 
 Project Description:
-Compressing and decompressing text file using Huffman coding.
+Encoding text file using Huffman coding.
 
 Language used:
 Python
 
 Project working:
-Download both file encode_decode.py and main.py and make sure both are in same directory.
-Open main.py and specify text file path in 'file_path' variable.
+Download main.py.
+Open main.py and in string variable pass the text which you want to encode.
 
-![ScreenShot](https://github.com/pruthvi128/Huffman-Coding/blob/main/Capture.PNG)
+From string each characters is counted and stored in frequency_dictionary.
+This dictionary is used in-built method in python, heap function and  text is encoded
 
-Text file is passed to compress function, frequency dictionary is created, text is encoded characters wise, padding is added and compression is done.
-
-Compressed file ".bin" is then used and passed to decompress function, padding between text is removed from encoded text and text is decoded,to decompress the file and get original file.
-
-Uploaded sample text file "sample.txt", which I have used and uploaded results of compression and of decompression
-or any txt file can be used.
-
+Output:
 
