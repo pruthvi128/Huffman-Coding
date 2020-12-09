@@ -21,3 +21,11 @@ Output:
 
 ![screenshot](https://github.com/pruthvi128/Huffman-Coding/blob/main/Output.PNG)
 
+Note:
+You can run this file online in Jupyter. Please follow the steps:
+1. Download main.py and open it with Notepad.
+2. Open https://jupyter.org/try
+3. Select first option "Try classic Notebook"
+4. Then Click File > New Notebook > python 3
+5. Copy the code from notepae > Change 'String' to any other stering or message > Run
+
